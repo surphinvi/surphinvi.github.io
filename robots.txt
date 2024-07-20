@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://surphinvi.github.io/sitemap
+Sitemap: https://surphinvi.github.io/app/sitemap
+Sitemap: https://surphinvi.github.io/assets/sitemap
+Sitemap: https://surphinvi.github.io/css/sitemap
+Sitemap: https://surphinvi.github.io/includes/sitemap
+Sitemap: https://surphinvi.github.io/item/sitemap
+Sitemap: https://surphinvi.github.io/src/sitemap
